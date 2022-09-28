@@ -1,5 +1,5 @@
 {
-  "intro": "Hej",
+  "intro": "Hola",
   "heroPhoto": {
     "src": "../../images/lego-dummy.png",
     "alt": "My Photo"
@@ -8,15 +8,15 @@
     "src": "../../images/waving-hand.png",
     "alt": "Waving Hand Emoji"
   },
-  "title": "I'm a Gatsby Starter",
+  "title": "My name is Artem",
   "subtitle": {
-    "prefix": "I do all the setup ",
+    "prefix": "I keep servers alive ",
     "highlight": "for you",
     "suffix": "."
   },
-  "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
+  "description": "I'm a DevOps engineer with serious Ops experience",
   "socialProfiles": {
-    "from": ["LinkedIn", "Medium", "Github", "Mail"],
+    "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": false
   }
 }
