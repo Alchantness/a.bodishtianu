@@ -12,7 +12,7 @@
       "behance": "https://behance.com",
       "github": "https://github.com/Alchantness",
       "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
+      "linkedin": "https://www.linkedin.com/in/artem-bodishtianu-a9b892241/",
       "mail": "mailto:a.bodishtianu@gmail.com"
     }
   },
@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": "./Resume_Artem_Bodishtianu.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },

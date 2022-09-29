@@ -4,12 +4,11 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
-YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+Artem<br />
+Moscow<br />
+Russian Federation
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>a.bodishtianu@gmail.com</u>
 
 ---
 
