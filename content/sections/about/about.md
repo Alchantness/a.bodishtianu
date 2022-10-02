@@ -3,7 +3,7 @@ imageSrc: "../../images/me.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-Currently i'm getting a bachelor degree in CS at RTU MIREA, Moscow. Our specialization is data analysis and mostly we studying math, data management and realational databases.
+Currently i'm getting a bachelor degree in CS at RTU MIREA, Moscow. Our specialization is data analysis and mostly we studying math, data management and relational databases.
 
 But my true love is servers, automation and DevOps. Now i'm working as System Administrator, managing nerworks (mikirotiks), keep Windows and Linux servers alive, administrate MySQL, create replicas and backups.
 

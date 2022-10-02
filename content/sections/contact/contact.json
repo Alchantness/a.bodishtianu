@@ -4,7 +4,7 @@
   "description": "Contact, if you want to work with me.",
   "image": {
     "src": "../../images/linuxfooter.png",
-    "alt": "Gatsby Logo"
+    "alt": "Linux Logo"
   },
   "socialProfiles": {
     "from": ["Github", "Mail"],
