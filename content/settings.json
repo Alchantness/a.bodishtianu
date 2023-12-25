@@ -1,7 +1,7 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "siteUrl": "https://abodishtianu.com/",
     "title": "ABodishtianu personal site",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "Personal site and portfolio",
@@ -28,7 +28,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "Resume",
-        "url": "./Resume_Artem_Bodishtianu (3).pdf"
+        "url": "./Resume_Artem_Bodishtianu.pdf"
       },
       "footer": [
         { "label": "Privacy", "url": "/privacy" },
