@@ -9,7 +9,7 @@
     "serve": "gatsby serve"
   },
   "engines": {
-    "node": ">=16.0.0"
+    "node": "latest"
   },
   "dependencies": {
     "gatsby": "latest",
