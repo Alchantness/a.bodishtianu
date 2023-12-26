@@ -11,4 +11,4 @@ I want to grow as DevOps engineer, because i find this methodology so convenient
 
 You can see more information about my skills below, at LinkdIn profile, or in CV. You can download it by pressing "Resume" button.
 
-This site has no ads, tracking and analytics, build with Gatsby, deploy on Netlify.
+This site build with Gatsby, theme by https://www.gatsbyjs.com/plugins/gatsby-theme-portfolio-minimal/, deploy on Netlify.
