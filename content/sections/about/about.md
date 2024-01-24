@@ -3,11 +3,9 @@ imageSrc: "../../images/me.jpg"
 imageAlt: "About Gatsby Theme Portfolio Minimal"
 ---
 
-Currently i'm getting a bachelor degree in CS at RTU MIREA, Moscow. Our specialization is data analysis and mostly we studying math, data management and relational databases.
+Hey, I'm Artem, your tech enthusiast for making systems run seamlessly. Armed with a Computer Science degree at MIREA university, I'm not just your typical techie – I've got a knack for Python programming, Linux systems, databases, and IT process management. Currently striving to become a DevOps engineer, I find joy in automating processes and ensuring everything ticks like clockwork.
 
-But my true love is servers, automation and DevOps. Now i'm working as System Administrator, managing nerworks (mikirotiks), keep Windows and Linux servers alive, administrate MySQL, create replicas and backups.
-
-I want to grow as DevOps engineer, because i find this methodology so convenient and brilliant! It help teams to build wonderful applications faster and deliver them to users in a moment!
+Aspiring to be a DevOps pro, I'm dedicated to using automation to enhance system reliability, speed up software deployment, and optimize all things tech. Always staying up-to-date with the latest in IT, I'm ready for the challenges of the ever-evolving tech landscape, especially in the realm of security.
 
 You can see more information about my skills below, at LinkdIn profile, or in CV. You can download it by pressing "Resume" button.
 
