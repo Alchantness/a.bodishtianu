@@ -17,7 +17,7 @@
     }
   },
   "siteConfiguration": {
-    "logo": { "image": "../content/images/AVP_SOFTWARE_1.png" },
+    "logo": { "text": "Portfolio" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
